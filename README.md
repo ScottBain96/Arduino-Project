@@ -1,2 +1,3 @@
-Arduino Project By Scott and William 
+Arduino Project By Scott and William
+
 BTC Ticker
