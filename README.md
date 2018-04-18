@@ -1,2 +1,2 @@
-# Arduino-Project
-Arduino Project
+Arduino Project By Scott and William 
+BTC Ticker
