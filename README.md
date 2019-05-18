@@ -1,4 +1,4 @@
-Arduino Project By Scott and William
+<h1>Arduino Project By Scott and William</h1>
 
 BTC Ticker using an Arduino Mega and modules for Wifi and Bluetooth.
 
